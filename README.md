@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammad Khoddami 👋
 
-👨‍💻 Software Engineer | Python & Django Developer  
+👨‍💻 FullStack Dev | Python, Django - React, NextJs - Node, Express Developer !   
 🚀 Passionate about building scalable web applications  
 📧 mohammadh.khoddami@gmail.com  
 📱 Telegram: [@niklausthemorningstar](https://t.me/niklausthemorningstar)  
