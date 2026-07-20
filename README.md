@@ -107,17 +107,6 @@ class MohammadKhoddami:
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammadkhoddami&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkhoddami&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -157,16 +146,6 @@ class MohammadKhoddami:
 
 </p>
 
----
-
-# 🌱 Currently Learning
-
-- 🏗️ Software Architecture
-- ⚡ High Performance Django
-- ☁️ Cloud Computing
-- 🐳 Docker & DevOps
-- 🔐 Authentication & Security
-- 🚀 Scalable Backend Systems
 
 ---
 
@@ -180,17 +159,6 @@ class MohammadKhoddami:
 
 ---
 
-# 📌 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🚀 FullStack Applications | Django + React + Next.js |
-| 🛒 E-Commerce APIs | Django REST Framework |
-| 🌐 Personal Website | Next.js |
-| ⚙️ Backend Services | Python & Node.js |
-| 🐳 Dockerized Applications | Docker + Nginx |
-
----
 
 # 📫 Connect With Me
 
