@@ -25,50 +25,51 @@
 
 ---
 
-# 💫 About Me
+## 👋 About Me
 
-```python
-class MohammadKhoddami:
+💻 **FullStack Developer**
 
-    role = "FullStack Developer"
+Building scalable web applications with a strong focus on backend engineering.
 
-    backend = [
-        "Python",
-        "Django",
-        "Django REST Framework",
-        "Node.js",
-        "Express.js"
-    ]
+<table>
+<tr>
+<td>
 
-    frontend = [
-        "React",
-        "Next.js",
-        "JavaScript",
-        "TypeScript"
-    ]
+🔹 Backend  
+Python • Django • DRF  
+Node.js • Express
 
-    database = [
-        "PostgreSQL",
-        "Redis",
-        "MongoDB"
-    ]
+</td>
 
-    devops = [
-        "Docker",
-        "Linux",
-        "Nginx",
-        "Git",
-        "GitHub"
-    ]
+<td>
 
-    currently_learning = [
-        "System Design",
-        "Cloud",
-        "DevOps",
-        "Software Architecture"
-    ]
-```
+⚛️ Frontend  
+React • Next.js  
+TypeScript
 
+</td>
+</tr>
+
+<tr>
+<td>
+
+🗄️ Database  
+PostgreSQL  
+Redis • MongoDB
+
+</td>
+
+<td>
+
+⚙️ DevOps  
+Docker • Linux  
+Nginx • Git
+
+</td>
+</tr>
+</table>
+
+> *"Talk Is Cheap, Show Me the Code."*
 ---
 
 # 🚀 Tech Stack
@@ -183,8 +184,6 @@ class MohammadKhoddami:
 ---
 
 <div align="center">
-
-### 💙 Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
 
