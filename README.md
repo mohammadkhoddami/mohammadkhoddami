@@ -1,27 +1,25 @@
 <div align="center">
 
-# 👋 Hey, I'm Mohammad Khoddami
+# 👋 Hi, I'm Mohammad Khoddami
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=FullStack+Developer;Python+%7C+Django+Expert;React+%7C+Next.js+Developer;Node.js+%7C+Express.js;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&duration=3500&center=true&vCenter=true&width=750&lines=FullStack+Developer;Python+%7C+Django+Developer;React+%7C+Next.js+Developer;Node.js+%7C+Express.js;Building+Scalable+Applications;Always+Learning+New+Things" />
 
-<p>
+<br>
+
 <a href="https://www.mhkhoddami.ir">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0A66C2?style=for-the-badge" />
 </a>
-
 <a href="https://www.linkedin.com/in/mohammad-hasan-khoddami-40528727a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://t.me/niklausthemorningstar">
-<img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-
 <a href="mailto:mohammadh.khoddami@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<br><br>
 
 ![](https://komarev.com/ghpvc/?username=mohammadkhoddami&style=for-the-badge&color=blue)
 
@@ -31,14 +29,47 @@
 
 # 💫 About Me
 
-🚀 FullStack Developer passionate about designing scalable and maintainable systems.
+```python
+class MohammadKhoddami:
 
-- 🔥 Backend: **Python, Django, Django REST Framework**
-- ⚛️ Frontend: **React, Next.js**
-- 🟢 Node.js: **Express.js**
-- 🐳 Docker & Linux Enthusiast
-- ☁️ Deployments, REST APIs & PostgreSQL
-- 📚 Currently learning **System Design, DevOps & Cloud**
+    role = "FullStack Developer"
+
+    backend = [
+        "Python",
+        "Django",
+        "Django REST Framework",
+        "Node.js",
+        "Express.js"
+    ]
+
+    frontend = [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "TypeScript"
+    ]
+
+    database = [
+        "PostgreSQL",
+        "Redis",
+        "MongoDB"
+    ]
+
+    devops = [
+        "Docker",
+        "Linux",
+        "Nginx",
+        "Git",
+        "GitHub"
+    ]
+
+    currently_learning = [
+        "System Design",
+        "Cloud",
+        "DevOps",
+        "Software Architecture"
+    ]
+```
 
 ---
 
@@ -46,92 +77,122 @@
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,bash" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,bash&perline=6"/>
 </p>
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=django,nodejs,express,fastapi" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=django,nodejs,express,fastapi&perline=4"/>
 </p>
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,vite&perline=5"/>
 </p>
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=4"/>
 </p>
 
 ### DevOps & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,vscode,postman" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,vscode,postman,figma&perline=8"/>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammadkhoddami&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammadkhoddami&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkhoddami&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkhoddami&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mohammadkhoddami&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=mohammadkhoddami&theme=tokyonight&hide_border=true"/>
 
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohammadkhoddami&theme=tokyonight&no-frame=true&column=4"/>
-
-</div>
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadkhoddami&theme=tokyo-night&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# ⚡ Coding Activity
+# 📊 GitHub Summary
 
-<!--START_SECTION:waka-->
-```text
-Python       ████████████████████░   82%
-JavaScript   ████░░░░░░░░░░░░░░░░   12%
-TypeScript   ██░░░░░░░░░░░░░░░░░░    4%
-Other        ░░░░░░░░░░░░░░░░░░░░    2%
-```
-<!--END_SECTION:waka-->
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammadkhoddami&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohammadkhoddami&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohammadkhoddami&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohammadkhoddami&theme=tokyonight&utcOffset=3"/>
+
+</p>
 
 ---
 
-# 🤝 Let's Connect
+# 🌱 Currently Learning
+
+- 🏗️ Software Architecture
+- ⚡ High Performance Django
+- ☁️ Cloud Computing
+- 🐳 Docker & DevOps
+- 🔐 Authentication & Security
+- 🚀 Scalable Backend Systems
+
+---
+
+# 💼 Featured Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,react,nextjs,nodejs,express,postgres,docker,redis,linux,git,github&perline=6"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🚀 FullStack Applications | Django + React + Next.js |
+| 🛒 E-Commerce APIs | Django REST Framework |
+| 🌐 Personal Website | Next.js |
+| ⚙️ Backend Services | Python & Node.js |
+| 🐳 Dockerized Applications | Docker + Nginx |
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -140,15 +201,15 @@ Other        ░░░░░░░░░░░░░░░░░░░░    2%
 </a>
 
 <a href="mailto:mohammadh.khoddami@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mohammad-hasan-khoddami-40528727a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://t.me/niklausthemorningstar">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram"/>
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 </p>
@@ -157,6 +218,8 @@ Other        ░░░░░░░░░░░░░░░░░░░░    2%
 
 <div align="center">
 
-### ⭐ If you like my work, don't forget to star my repositories!
+### 💙 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
 
 </div>
