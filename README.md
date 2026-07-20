@@ -24,19 +24,33 @@
 </div>
 
 ---
+## 💻 About Me
 
-## 👨‍💻 About Me
+```console
+> whoami
+Mohammad Khoddami
 
-```text
-Name        :: Mohammad Khoddami
-Role        :: FullStack Developer
-Backend     :: Python • Django • DRF • Node.js
-Frontend    :: React • Next.js • TypeScript
-Database    :: PostgreSQL • Redis
-DevOps      :: Docker • Linux • Nginx
-Focus       :: Scalable Backends • Clean Architecture
-Learning    :: System Design • Cloud • DevOps
+> role
+FullStack Developer
+
+> backend
+Python • Django • Django REST Framework • Node.js • Express.js
+
+> frontend
+React • Next.js • TypeScript
+
+> database
+PostgreSQL • Redis • MongoDB
+
+> devops
+Docker • Linux • Git • Nginx
+
+> currently_learning
+System Design
+Software Architecture
+Cloud Computing
 ```
+
 <div align="center">
 
 > **"Talk is cheap. Show me the code."**
