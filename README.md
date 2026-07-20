@@ -21,8 +21,6 @@
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=mohammadkhoddami&style=for-the-badge&color=blue)
-
 </div>
 
 ---
