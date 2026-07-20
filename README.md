@@ -25,51 +25,40 @@
 
 ---
 
-## 👋 About Me
+## 💻 About Me
 
-💻 **FullStack Developer**
+```console
+> whoami
+Mohammad Khoddami
 
-Building scalable web applications with a strong focus on backend engineering.
+> role
+FullStack Developer
 
-<table>
-<tr>
-<td>
+> backend
+Python • Django • Django REST Framework • Node.js • Express.js
 
-🔹 Backend  
-Python • Django • DRF  
-Node.js • Express
+> frontend
+React • Next.js • TypeScript
 
-</td>
+> database
+PostgreSQL • Redis • MongoDB
 
-<td>
+> devops
+Docker • Linux • Git • Nginx
 
-⚛️ Frontend  
-React • Next.js  
-TypeScript
+> currently_learning
+System Design
+Software Architecture
+Cloud Computing
+```
 
-</td>
-</tr>
+<div align="center">
 
-<tr>
-<td>
+> **"Talk is cheap. Show me the code."**
+>
+> — *Linus Torvalds*
 
-🗄️ Database  
-PostgreSQL  
-Redis • MongoDB
-
-</td>
-
-<td>
-
-⚙️ DevOps  
-Docker • Linux  
-Nginx • Git
-
-</td>
-</tr>
-</table>
-
-> *"Talk Is Cheap, Show Me the Code."*
+</div>
 ---
 
 # 🚀 Tech Stack
